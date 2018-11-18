@@ -1,7 +1,7 @@
 public class Main {
 
     public static void f(){
-        System.out.println("some bag");
+        System.out.println("there isn't any bat");
     }
 
 
